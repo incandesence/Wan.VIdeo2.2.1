@@ -1,4 +1,4 @@
-# Wan2.2
+# Wan2.2.1 fixed and fine-tune by Rujipas Sornmayura
 
 <p align="center">
     <img src="assets/logo.png" width="400"/>
